@@ -35,7 +35,7 @@ class Entertainment extends Component {
                     <Card.Body>
                       <Card.Title>{articles.title}</Card.Title>
                       &nbsp;
-										<Card.Text>{articles.description}</Card.Text>
+									
                       <Button variant="primary" href={articles.url} target="_blank">Read more</Button>
                     </Card.Body>
                     <Card.Footer className="text-muted">Author: {articles.author}<br />Source: {articles.source.name}</Card.Footer>

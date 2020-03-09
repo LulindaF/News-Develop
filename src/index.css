@@ -13,3 +13,16 @@ code {
   'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
   sans-serif;
 }
+.card-img-top {
+  width: 355px;
+  height: 200px;
+}
+
+.card-body{
+  width: 355px;
+  height: 165px;
+}
+.text-muted.card-footer{
+  width: 355px;
+  height: 100px;
+}
